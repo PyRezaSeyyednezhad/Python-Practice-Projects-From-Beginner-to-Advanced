@@ -111,10 +111,6 @@ This repository reflects continuous learning and professional growth in Python.
 
 ---
 
----
-
-# 📕 README (نسخه فارسی)
-
 # 🐍 تمرین‌ها و پروژه‌های پایتون – از مقدماتی تا پیشرفته
 
 ## معرفی
